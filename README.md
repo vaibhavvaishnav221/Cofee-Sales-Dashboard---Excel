@@ -4,7 +4,7 @@ Coffee Sales Report in MS Excel
 ## 📊 Overview
 The Coffee Sales Dashboard is an analytical tool designed to provide insights into coffee sales performance. This project utilizes Power BI to visualize key sales metrics and trends, offering valuable information for decision-making.
 
-## Features
+## 🛠️ Features
 - **Sales Overview**: Provides a summary of total sales, units sold, and revenue.
 - **Trend Analysis**: Displays sales trends over time, helping to identify peak sales periods.
 - **Product Performance**: Breaks down sales by product category and individual items.
