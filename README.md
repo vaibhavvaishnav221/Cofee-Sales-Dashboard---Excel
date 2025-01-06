@@ -15,13 +15,7 @@ Coffee Sales Report in MS Excel
 - **Customer Insights**: Analyzes customer segments, purchase behavior, and loyalty.
 
 ## File Details
-- **Coffee Sales Dashboard.xlsx**: Contains the dataset used for creating the dashboard.
+- **[Coffee Sales Dashboard](https://github.com/vaibhavvaishnav221/Cofee-Sales-Dashboard---Excel/blob/main/Coffee%20Sales%20Dashboard.xlsx "Coffee Sales Dashboard")**: Contains the dataset used for creating the dashboard.
 
 ## Tools & Technologies
-- **Power BI**: Used for data visualization and dashboard creation.
 - **Excel**: Utilized for data preprocessing and management.
-
-## Installation & Usage
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Coffee-Sales-Dashboard.git
