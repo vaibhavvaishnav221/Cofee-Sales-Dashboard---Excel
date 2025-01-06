@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard
 Coffee Sales Report in MS Excel
 ![Cofee Sales Dashborad](https://github.com/vaibhavvaishnav221/Cofee-Sales-Dashboard---Excel/blob/main/Screenshot%20(99).png "Cofee Sales Dashborad")
-## Overview
+## 📊 Overview
 The Coffee Sales Dashboard is an analytical tool designed to provide insights into coffee sales performance. This project utilizes Power BI to visualize key sales metrics and trends, offering valuable information for decision-making.
 
 ## Features
