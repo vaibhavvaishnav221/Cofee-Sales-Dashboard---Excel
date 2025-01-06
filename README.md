@@ -8,15 +8,15 @@ Coffee Sales Report in MS Excel
 ![Cofee Sales Dashborad](https://github.com/vaibhavvaishnav221/Cofee-Sales-Dashboard---Excel/blob/main/Screenshot%20(99).png "Cofee Sales Dashborad")
 
 ## 🛠️ Features
-- **📈 Sales Overview**:
+- **📈 Sales Overview**:  
 Provides a summary of total sales, units sold, and revenue.
-- **📉 Trend Analysis**:
+- **📉 Trend Analysis**:  
 Displays sales trends over time, helping to identify peak sales periods.
-- **☕ Product Performance**:
+- **☕ Product Performance**:  
 Breaks down sales by product category and individual items.
-- **🌍 Geographic Insights**:
+- **🌍 Geographic Insights**:  
 Maps sales distribution by location, highlighting top-performing regions.
-- **🧑‍🤝‍🧑 Customer Insights**:
+- **🧑‍🤝‍🧑 Customer Insights**:  
  Analyzes customer segments, purchase behavior, and loyalty. 
 
 ## 📄 File Details
